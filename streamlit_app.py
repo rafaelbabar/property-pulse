@@ -22,13 +22,13 @@ def propertypulse():
                 st.write("No results found for the entered post code.")
     
     elif search == "Property Type":
-        property_types = df['property_type'].unique().tolist()
-        ptsearch = st.selectbox("Please select a property type", [""] + property_types)
         st.write("F - Flat")
         st.write("O - Other")
         st.write("T - Terraced")
         st.write("D - Detached")
         st.write("S - Semi Detached")
+        property_types = df['property_type'].unique().tolist()
+        ptsearch = st.selectbox("Please select a property type", [""] + property_types)
         if ptsearch:
             filtered_df = df[df['property_type'] == ptsearch]
             if not filtered_df.empty:
@@ -37,10 +37,10 @@ def propertypulse():
                 st.write("No results found for the selected property type.")
     
     elif search == "Transaction Category":
-        transaction_categories = df['transaction_category'].unique().tolist()
-        tcsearch = st.selectbox("Please select a transaction category", [""] + transaction_categories)
         st.write("B - Additional price paid transaction")
         st.write("A - Standard price paid transaction")
+        transaction_categories = df['transaction_category'].unique().tolist()
+        tcsearch = st.selectbox("Please select a transaction category", [""] + transaction_categories)
         if tcsearch:
             filtered_df = df[df['transaction_category'] == tcsearch]
             if not filtered_df.empty:
