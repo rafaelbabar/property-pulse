@@ -54,5 +54,18 @@ def propertypulse():
                 st.markdown(filtered_df[['linked_data_uri']].to_html(escape=False), unsafe_allow_html=True)
             else:
                 st.write("No results found for the selected transaction category.")
+    elif search == "Price":
+        min_price = st.number_input("Please enter a minimum price", value=0)
+        max_price = st.number_input("Please enter a maximum price", value=1000000)
+        if st.button("Check Price Range"):
+            filtered_df = df[(df['price_paid'] >= min_price) & (df['price_paid'] <= max_price)]
+            if not filtered_df.empty:
+                st.dataframe(filtered_df[['price_paid', 'deed_date', 'saon', 'paon', 'street', 'postcode']])
+                filtered_df['linked_data_uri'] = filtered_df['linked_data_uri'].apply(make_clickable)
+                st.markdown(filtered_df[['linked_data_uri']].to_html(escape=False), unsafe_allow_html=True)
+            else:
+                st.write("No results found for the selected price range.")
 
 propertypulse()
+
+
