@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-#D:\OneDrive\Desktop\Projects>streamlit run property-pulse-v6.py
+#D:\OneDrive\Desktop\Projects>streamlit run property-pulse-v7.py
 def propertypulse():
     st.title("Property Sales - Manchester")
     st.subheader("1 January 2020 - last month")
@@ -13,14 +13,19 @@ def propertypulse():
     def make_clickable(link):
         return f'<a href="{link}" target="_blank">{link}</a>'
     
+    def display_filtered_data(filtered_df):
+        st.dataframe(filtered_df[['price_paid', 'deed_date', 'saon', 'paon', 'street', 'postcode']])
+        row_selection = st.selectbox("Select a row to view the link", filtered_df.index)
+        if row_selection is not None:
+            selected_link = filtered_df.loc[row_selection, 'linked_data_uri']
+            st.markdown(make_clickable(selected_link), unsafe_allow_html=True)
+    
     if search == "Post Code":
         enterpostcode = st.text_input("Please enter a post code")
         if st.button("Check Post Code"):
             filtered_df = df[df['postcode'] == enterpostcode]
             if not filtered_df.empty:
-                st.dataframe(filtered_df[['price_paid', 'deed_date', 'saon', 'paon', 'street']])
-                filtered_df['linked_data_uri'] = filtered_df['linked_data_uri'].apply(make_clickable)
-                st.markdown(filtered_df[['linked_data_uri']].to_html(escape=False), unsafe_allow_html=True)
+                display_filtered_data(filtered_df)
             else:
                 st.write("No results found for the entered post code.")
     
@@ -35,9 +40,7 @@ def propertypulse():
         if ptsearch:
             filtered_df = df[df['property_type'] == ptsearch]
             if not filtered_df.empty:
-                st.dataframe(filtered_df[['price_paid', 'deed_date', 'saon', 'paon', 'street', 'postcode']])
-                filtered_df['linked_data_uri'] = filtered_df['linked_data_uri'].apply(make_clickable)
-                st.markdown(filtered_df[['linked_data_uri']].to_html(escape=False), unsafe_allow_html=True)
+                display_filtered_data(filtered_df)
             else:
                 st.write("No results found for the selected property type.")
     
@@ -49,23 +52,18 @@ def propertypulse():
         if tcsearch:
             filtered_df = df[df['transaction_category'] == tcsearch]
             if not filtered_df.empty:
-                st.dataframe(filtered_df[['price_paid', 'deed_date', 'saon', 'paon', 'street', 'postcode']])
-                filtered_df['linked_data_uri'] = filtered_df['linked_data_uri'].apply(make_clickable)
-                st.markdown(filtered_df[['linked_data_uri']].to_html(escape=False), unsafe_allow_html=True)
+                display_filtered_data(filtered_df)
             else:
                 st.write("No results found for the selected transaction category.")
+    
     elif search == "Price":
         min_price = st.number_input("Please enter a minimum price", value=0)
         max_price = st.number_input("Please enter a maximum price", value=1000000)
         if st.button("Check Price Range"):
             filtered_df = df[(df['price_paid'] >= min_price) & (df['price_paid'] <= max_price)]
             if not filtered_df.empty:
-                st.dataframe(filtered_df[['price_paid', 'deed_date', 'saon', 'paon', 'street', 'postcode']])
-                filtered_df['linked_data_uri'] = filtered_df['linked_data_uri'].apply(make_clickable)
-                st.markdown(filtered_df[['linked_data_uri']].to_html(escape=False), unsafe_allow_html=True)
+                display_filtered_data(filtered_df)
             else:
                 st.write("No results found for the selected price range.")
 
 propertypulse()
-
-
