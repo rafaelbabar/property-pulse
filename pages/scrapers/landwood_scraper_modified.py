@@ -2,6 +2,25 @@
 from playwright.sync_api import sync_playwright
 import json
 
+def extract_town_from_address(address):
+    # Clean up any non-breaking spaces first
+    address = address.replace("\u00a0", " ")
+
+    # Split the address by commas
+    address_parts = address.split(',')
+    
+    # The last part is assumed to be the postcode
+    postcode = address_parts[-1].strip()
+    
+    # The second last part is assumed to be the town
+    if len(address_parts) >= 2:
+        town = address_parts[-2].strip()
+    else:
+        # Fallback: if the address doesn't have enough parts, return the first part
+        town = address_parts[0].strip()
+    
+    return town
+
 def fetch_data():
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -17,8 +36,12 @@ def fetch_data():
         structured_data = []
 
         for address, price in zip(addresses, prices):
-            address_text = address.inner_text().strip()
-            price_text = price.inner_text().strip()
+            # Clean up the address and price strings
+            address_text = address.inner_text().strip().replace("\u00a0", " ")
+            price_text = price.inner_text().strip().replace("\u00a3", "£")
+            
+            # Extract the town from the address
+            town = extract_town_from_address(address_text)
 
             # Determine the result and minimum bid from the price_text
             if "Sold for" in price_text:
@@ -40,9 +63,10 @@ def fetch_data():
                 result = "Minimum Opening Bid"
                 min_bid = price_text
 
-            # Create a dictionary for each entry
+            # Create a dictionary for each entry including the town
             structured_data.append({
                 "Address": address_text,
+                "Town": town,
                 "Result": result,
                 "Minimum Opening Bid": min_bid
             })
@@ -51,15 +75,13 @@ def fetch_data():
         browser.close()
 
         # Output structured JSON data
-        return json.dumps(structured_data, indent=4)
+        return json.dumps(structured_data, ensure_ascii=False, indent=4)
 
 # Example of how to use the function
 if __name__ == "__main__":
     data = fetch_data()
-    with open('output.json', 'w') as f:
+    with open('output.json', 'w', encoding='utf-8') as f:
         f.write(data)
     print(data)
 
-#with open('output.json', 'w', encoding='utf-8') as f:
-    #json.dump(structured_data, f, ensure_ascii=False, indent=4)
 

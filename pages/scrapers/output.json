@@ -1,172 +1,206 @@
 [
     {
-        "Address": "127 Kings Road, North Ormesby, Middlesbrough, Cleveland, TS3\u00a06EY",
+        "Address": "127 Kings Road, North Ormesby, Middlesbrough, Cleveland, TS3 6EY",
+        "Town": "Cleveland",
         "Result": "Minimum Opening Bid",
         "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Vacant three bedroom mid terraced house."
     },
     {
-        "Address": "85 Morgan Street, Sunderland, Tyne and Wear, SR5\u00a02HN",
+        "Address": "85 Morgan Street, Sunderland, Tyne and Wear, SR5 2HN",
+        "Town": "Tyne and Wear",
         "Result": "Sold Prior",
         "Minimum Opening Bid": "N/A"
     },
     {
-        "Address": "10 Chapel Walk, Coppull, Chorley, Lancashire, PR7\u00a05AY",
+        "Address": "10 Chapel Walk, Coppull, Chorley, Lancashire, PR7 5AY",
+        "Town": "Lancashire",
         "Result": "Minimum Opening Bid",
-        "Minimum Opening Bid": "\u00a335,000"
+        "Minimum Opening Bid": "£35,000"
     },
     {
-        "Address": "Flat 9 Biscop House Villiers Street, Sunderland, Sunderland, SR1\u00a01ER",
+        "Address": "Flat 9 Biscop House Villiers Street, Sunderland, Sunderland, SR1 1ER",
+        "Town": "Sunderland",
         "Result": "Minimum Opening Bid",
-        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Two bedroom ground floor flat Let at \u00a3325pcm."
+        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Two bedroom ground floor flat Let at £325pcm."
     },
     {
-        "Address": "36 Grays Walk, South Shields, Tyne And Wear, NE34\u00a09LT",
+        "Address": "36 Grays Walk, South Shields, Tyne And Wear, NE34 9LT",
+        "Town": "Tyne And Wear",
         "Result": "Sold",
-        "Minimum Opening Bid": "\u00a320,000"
+        "Minimum Opening Bid": "£20,000"
     },
     {
-        "Address": "9 St. Georges Court, Chorley, Lancashire, PR7\u00a02TT",
+        "Address": "9 St. Georges Court, Chorley, Lancashire, PR7 2TT",
+        "Town": "Lancashire",
         "Result": "Minimum Opening Bid",
-        "Minimum Opening Bid": "\u00a320,000"
+        "Minimum Opening Bid": "£20,000"
     },
     {
-        "Address": "18 Finchale Road, Newton Aycliffe, County Durham, DL5\u00a05HT",
+        "Address": "18 Finchale Road, Newton Aycliffe, County Durham, DL5 5HT",
+        "Town": "County Durham",
         "Result": "Minimum Opening Bid",
         "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Vacant two bedroom ground floor flat requiring refurbishment."
     },
     {
-        "Address": "89 Morgan Street, Sunderland, Tyne and Wear, SR5\u00a02HN",
+        "Address": "89 Morgan Street, Sunderland, Tyne and Wear, SR5 2HN",
+        "Town": "Tyne and Wear",
         "Result": "Sold",
-        "Minimum Opening Bid": "\u00a342,250"
+        "Minimum Opening Bid": "£42,250"
     },
     {
-        "Address": "Flat 8 Biscop House Villiers Street, Sunderland, SR1\u00a01ER",
+        "Address": "Flat 8 Biscop House Villiers Street, Sunderland, SR1 1ER",
+        "Town": "Sunderland",
         "Result": "Minimum Opening Bid",
-        "Minimum Opening Bid": "\u00a342,250"
+        "Minimum Opening Bid": "£42,250"
     },
     {
-        "Address": "12 Chapel Place, Seaton Burn, Newcastle upon Tyne, Tyne and Wear, NE13\u00a06EX",
+        "Address": "12 Chapel Place, Seaton Burn, Newcastle upon Tyne, Tyne and Wear, NE13 6EX",
+        "Town": "Tyne and Wear",
         "Result": "Minimum Opening Bid",
-        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: One bedroom second floor City Centre flat Let at \u00a3695pcm."
+        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: One bedroom second floor City Centre flat Let at £695pcm."
     },
     {
-        "Address": "14 Shepherd Street, Sunderland, Tyne and Wear, SR4\u00a06HA",
+        "Address": "14 Shepherd Street, Sunderland, Tyne and Wear, SR4 6HA",
+        "Town": "Tyne and Wear",
         "Result": "Withdrawn",
         "Minimum Opening Bid": "N/A"
     },
     {
-        "Address": "5 Chapel Walk, Preston, PR7\u00a05AY",
+        "Address": "5 Chapel Walk, Preston, PR7 5AY",
+        "Town": "Preston",
         "Result": "Minimum Opening Bid",
-        "Minimum Opening Bid": "\u00a335,000"
+        "Minimum Opening Bid": "£35,000"
     },
     {
-        "Address": "15 St. Georges Court, Chorley, Lancashire, PR7\u00a02TT",
+        "Address": "15 St. Georges Court, Chorley, Lancashire, PR7 2TT",
+        "Town": "Lancashire",
         "Result": "Minimum Opening Bid",
-        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Three bedroom end terrace house Let at \u00a3525pcm."
+        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Three bedroom end terrace house Let at £525pcm."
     },
     {
-        "Address": "12 Chapel Walk, Preston, PR7\u00a05AY",
+        "Address": "12 Chapel Walk, Preston, PR7 5AY",
+        "Town": "Preston",
         "Result": "Unsold",
         "Minimum Opening Bid": "N/A"
     },
     {
-        "Address": "48 Greenbank Drive, Sunderland, Tyne and Wear, SR4\u00a00JY",
+        "Address": "48 Greenbank Drive, Sunderland, Tyne and Wear, SR4 0JY",
+        "Town": "Tyne and Wear",
         "Result": "Minimum Opening Bid",
-        "Minimum Opening Bid": "\u00a369,000"
+        "Minimum Opening Bid": "£69,000"
     },
     {
-        "Address": "4 St. Georges Court, Chorley, Lancashire, PR7\u00a02TT",
+        "Address": "4 St. Georges Court, Chorley, Lancashire, PR7 2TT",
+        "Town": "Lancashire",
         "Result": "Minimum Opening Bid",
         "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Vacant one bedroom purpose built flat."
     },
     {
-        "Address": "95 Morgan Street, Sunderland, Tyne and Wear, SR5\u00a02HN",
+        "Address": "95 Morgan Street, Sunderland, Tyne and Wear, SR5 2HN",
+        "Town": "Tyne and Wear",
         "Result": "Sold",
-        "Minimum Opening Bid": "\u00a345,500"
+        "Minimum Opening Bid": "£45,500"
     },
     {
-        "Address": "Flat 7 Biscop House Villiers Street, Sunderland, SR1\u00a01ER",
+        "Address": "Flat 7 Biscop House Villiers Street, Sunderland, SR1 1ER",
+        "Town": "Sunderland",
         "Result": "Minimum Opening Bid",
-        "Minimum Opening Bid": "\u00a345,500"
+        "Minimum Opening Bid": "£45,500"
     },
     {
-        "Address": "15 Portchester Road, Sunderland, Tyne and Wear, SR4\u00a08EQ",
+        "Address": "15 Portchester Road, Sunderland, Tyne and Wear, SR4 8EQ",
+        "Town": "Tyne and Wear",
         "Result": "Minimum Opening Bid",
-        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Three bedroom end terraced house Let at \u00a3507.69 every four weeks."
+        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Three bedroom end terraced house Let at £507.69 every four weeks."
     },
     {
-        "Address": "81 Morgan Street, Sunderland, Tyne and Wear, SR5\u00a02HN",
+        "Address": "81 Morgan Street, Sunderland, Tyne and Wear, SR5 2HN",
+        "Town": "Tyne and Wear",
         "Result": "Unsold",
         "Minimum Opening Bid": "N/A"
     },
     {
-        "Address": "30 Hollings Terrace, Chopwell, Newcastle upon Tyne, Tyne and Wear, NE17\u00a07LD",
+        "Address": "30 Hollings Terrace, Chopwell, Newcastle upon Tyne, Tyne and Wear, NE17 7LD",
+        "Town": "Tyne and Wear",
         "Result": "Minimum Opening Bid",
-        "Minimum Opening Bid": "\u00a378,000"
+        "Minimum Opening Bid": "£78,000"
     },
     {
-        "Address": "49 Lime Close, South Ockendon, Essex, RM15\u00a06NN",
+        "Address": "49 Lime Close, South Ockendon, Essex, RM15 6NN",
+        "Town": "Essex",
         "Result": "Minimum Opening Bid",
-        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Two bedroom ground floor flat Let at \u00a3433.33pcm."
+        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Two bedroom ground floor flat Let at £433.33pcm."
     },
     {
-        "Address": "23 Flats at Chorcliffe House, Hollinshead Street, Chorley, Lancashire, PR7\u00a01EP",
+        "Address": "23 Flats at Chorcliffe House, Hollinshead Street, Chorley, Lancashire, PR7 1EP",
+        "Town": "Lancashire",
         "Result": "Sold",
-        "Minimum Opening Bid": "\u00a322,000"
+        "Minimum Opening Bid": "£22,000"
     },
     {
-        "Address": "61 Harperley Gardens, Stanley, County Durham, DH9\u00a08RZ",
+        "Address": "61 Harperley Gardens, Stanley, County Durham, DH9 8RZ",
+        "Town": "County Durham",
         "Result": "Minimum Opening Bid",
-        "Minimum Opening Bid": "\u00a322,000"
+        "Minimum Opening Bid": "£22,000"
     },
     {
-        "Address": "Flat 43 Chorcliffe House, Hollinshead Street, Chorley, Lancashire, PR7\u00a01EP",
+        "Address": "Flat 43 Chorcliffe House, Hollinshead Street, Chorley, Lancashire, PR7 1EP",
+        "Town": "Lancashire",
         "Result": "Minimum Opening Bid",
         "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Vacant two bedroom second floor City Centre flat."
     },
     {
-        "Address": "1 Salisbury Street, Sunderland, Tyne and Wear, SR1\u00a02QR",
+        "Address": "1 Salisbury Street, Sunderland, Tyne and Wear, SR1 2QR",
+        "Town": "Tyne and Wear",
         "Result": "Withdrawn",
         "Minimum Opening Bid": "N/A"
     },
     {
-        "Address": "19A North Parade, Whitley Bay, Tyne And Wear, NE26\u00a01NU",
+        "Address": "19A North Parade, Whitley Bay, Tyne And Wear, NE26 1NU",
+        "Town": "Tyne And Wear",
         "Result": "Minimum Opening Bid",
-        "Minimum Opening Bid": "\u00a335,000"
+        "Minimum Opening Bid": "£35,000"
     },
     {
-        "Address": "Flats 1 and 2, 4 Burnville Road South, Sunderland, Tyne and Wear, SR4\u00a07LT",
+        "Address": "Flats 1 and 2, 4 Burnville Road South, Sunderland, Tyne and Wear, SR4 7LT",
+        "Town": "Tyne and Wear",
         "Result": "Minimum Opening Bid",
-        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Three bedroom mid terraced house Let at \u00a3600pcm."
+        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Three bedroom mid terraced house Let at £600pcm."
     },
     {
-        "Address": "32 Beech Avenue, Droylsden, Manchester, Lancashire, M43\u00a06FR",
+        "Address": "32 Beech Avenue, Droylsden, Manchester, Lancashire, M43 6FR",
+        "Town": "Lancashire",
         "Result": "Sold",
-        "Minimum Opening Bid": "\u00a370,000"
+        "Minimum Opening Bid": "£70,000"
     },
     {
-        "Address": "Flat 43 Chorcliffe House, Hollinshead Street, Chorley, Lancashire, PR7\u00a01EP",
+        "Address": "Flat 43 Chorcliffe House, Hollinshead Street, Chorley, Lancashire, PR7 1EP",
+        "Town": "Lancashire",
         "Result": "Minimum Opening Bid",
-        "Minimum Opening Bid": "\u00a370,000"
+        "Minimum Opening Bid": "£70,000"
     },
     {
-        "Address": "24 Wynyard Mews, Hartlepool, Cleveland, TS25\u00a03JE",
+        "Address": "24 Wynyard Mews, Hartlepool, Cleveland, TS25 3JE",
+        "Town": "Cleveland",
         "Result": "Minimum Opening Bid",
         "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Vacant three bedroom mid terraced house."
     },
     {
-        "Address": "1 Aydon House, Farringdon, Sunderland, Tyne and Wear, SR3\u00a03HN",
+        "Address": "1 Aydon House, Farringdon, Sunderland, Tyne and Wear, SR3 3HN",
+        "Town": "Tyne and Wear",
         "Result": "Sold",
-        "Minimum Opening Bid": "\u00a345,000"
+        "Minimum Opening Bid": "£45,000"
     },
     {
-        "Address": "48 Greenbank Drive, Sunderland, Tyne and Wear, SR4\u00a00JY",
+        "Address": "48 Greenbank Drive, Sunderland, Tyne and Wear, SR4 0JY",
+        "Town": "Tyne and Wear",
         "Result": "Minimum Opening Bid",
-        "Minimum Opening Bid": "\u00a345,000"
+        "Minimum Opening Bid": "£45,000"
     },
     {
-        "Address": "5 Mansion House Scotts House, Newcastle Road, West Boldon, East Boldon, Tyne And Wear, NE36\u00a00BE",
+        "Address": "5 Mansion House Scotts House, Newcastle Road, West Boldon, East Boldon, Tyne And Wear, NE36 0BE",
+        "Town": "Tyne And Wear",
         "Result": "Minimum Opening Bid",
-        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: One bedroom first floor flat Let at a rent of \u00a3394.98pcm."
+        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: One bedroom first floor flat Let at a rent of £394.98pcm."
     }
 ]

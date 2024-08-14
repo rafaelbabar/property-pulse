@@ -1,5 +1,4 @@
 #OneDrive\Desktop\Projects\main\pages>streamlit run Landwood.py
-
 import streamlit as st
 import json
 import os
@@ -15,27 +14,26 @@ def load_data():
     with open(json_path, 'r', encoding='utf-8') as f:
         return json.load(f)
 
-def extract_towns(data):
-    # Extract town names from the addresses
-    towns = []
-    for item in data:
-        address_parts = item["Address"].split(',')
-        town = address_parts[-3].strip()  # Assuming the town is the third last part of the address
-        towns.append(town)
-    return sorted(set(towns))  # Return unique sorted towns
+def extract_unique_towns(data):
+    # Extract unique towns from the loaded data
+    towns = {item['Town'] for item in data}
+    return sorted(towns)
 
 def parse_min_bid(min_bid):
-    # Try to extract numeric value from min_bid, otherwise return 0
+    # Try to extract a numeric value from min_bid, otherwise return None
     try:
-        return int(min_bid.replace("£", "").replace(",", ""))
+        if "£" in min_bid:
+            return int(min_bid.replace("£", "").replace(",", "").strip())
+        else:
+            return None
     except ValueError:
-        return None  # Return None for non-numeric values
+        return None
 
 # Load the data
 data = load_data()
 
-# Extract unique towns
-towns = extract_towns(data)
+# Extract unique towns from the data
+towns = extract_unique_towns(data)
 
 st.title("Auction - Landwood")
 
@@ -51,16 +49,17 @@ if st.button("Apply Filters"):
     st.subheader("Filtered Auction Properties and Details")
     for item in data:
         address = item["Address"]
+        town = item["Town"]
         result = item["Result"]
         min_bid = item["Minimum Opening Bid"]
 
-        # Extract the numeric value from the minimum opening bid for comparison
+        # Parse the numeric value from the minimum opening bid
         min_bid_value = parse_min_bid(min_bid)
 
         # Filter by town and price
-        if min_bid_value is not None and (town_search == "All" or town_search in address) and (min_price <= min_bid_value <= max_price):
+        if min_bid_value is not None and (town_search == "All" or town_search == town) and (min_price <= min_bid_value <= max_price):
             st.write(f"**Address:** {address}")
+            st.write(f"**Town:** {town}")
             st.write(f"**Result:** {result}")
             st.write(f"**Minimum Opening Bid:** £{min_bid_value:,}")
             st.write("---")  # Add a line for better visual separation
-
