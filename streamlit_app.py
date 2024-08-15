@@ -7,6 +7,11 @@ import html
 
 st.set_page_config(page_title="Property Pulse")
 
+def main():
+    # builds the sidebar menu
+    with st.sidebar:
+        st.page_link('streamlit_app.py', label='Home')
+
 st.title("Home")
 st.sidebar.success("Select an auction house")
 
@@ -16,3 +21,6 @@ st.write("We will test that ourselves www.aidatalytics.co.uk")
 st.write("Please let us know what you think of the interface, if it works we can add more auction houses!")
 st.write("Just open the app a few times you should notice that until 14 August that the data may change")
 st.write("Please let us know if the data doesn't change and thanks for helping!")
+
+if __name__ == '__main__':
+    main()
