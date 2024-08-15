@@ -63,3 +63,4 @@ if st.button("Apply Filters"):
             st.write(f"**Result:** {result}")
             st.write(f"**Minimum Opening Bid:** £{min_bid_value:,}")
             st.write("---")  # Add a line for better visual separation
+
