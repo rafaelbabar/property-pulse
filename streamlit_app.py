@@ -12,6 +12,9 @@ def main():
     with st.sidebar:
         st.page_link('streamlit_app.py', label='Home')
 
+if __name__ == '__main__':
+    main()
+    
 st.title("Home")
 st.sidebar.success("Select an auction house")
 
@@ -22,5 +25,4 @@ st.write("Please let us know what you think of the interface, if it works we can
 st.write("Just open the app a few times you should notice that until 14 August that the data may change")
 st.write("Please let us know if the data doesn't change and thanks for helping!")
 
-if __name__ == '__main__':
-    main()
+
