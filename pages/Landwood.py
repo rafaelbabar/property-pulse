@@ -1,4 +1,5 @@
 #OneDrive\Desktop\Projects\main\pages>streamlit run Landwood.py
+
 import streamlit as st
 import json
 import os
@@ -8,7 +9,7 @@ def load_data():
     current_dir = os.path.dirname(__file__)
     
     # Construct the full path to the JSON file
-    json_path = os.path.join(current_dir, 'scrapers', 'output.json')
+    json_path = os.path.join(current_dir, 'scrapers', 'output_with_full_links.json')  # Update to use the correct JSON file
     
     # Load the JSON data
     with open(json_path, 'r', encoding='utf-8') as f:
@@ -52,6 +53,7 @@ if st.button("Apply Filters"):
         town = item["Town"]
         result = item["Result"]
         min_bid = item["Minimum Opening Bid"]
+        link = item.get("Link")  # Get the property link
 
         # Parse the numeric value from the minimum opening bid
         min_bid_value = parse_min_bid(min_bid)
@@ -61,6 +63,9 @@ if st.button("Apply Filters"):
             st.write(f"**Address:** {address}")
             st.write(f"**Town:** {town}")
             st.write(f"**Result:** {result}")
-            st.write(f"**Minimum Opening Bid:** £{min_bid_value:,}")
-            st.write("---")  # Add a line for better visual separation
+            st.write(f"**Minimum Opening Bid:** £{min_bid_value}")
+            if link:
+                st.markdown(f"[View / Bid]({link})", unsafe_allow_html=True)  # Make the link clickable
+
+
 
