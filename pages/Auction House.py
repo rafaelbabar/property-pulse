@@ -5,11 +5,8 @@ import json
 import os
 
 def load_data():
-    # Get the directory where the current script is located
-    current_dir = os.path.expanduser('scrapers')  # Adjust if needed
-
     # Construct the full path to the JSON file
-    json_path = os.path.join(current_dir, 'auction_results.json')
+    json_path = os.path.join(current_dir, 'scrapers', 'auction_results.json')  # Update to use the correct JSON file
 
     # Load the JSON data
     with open(json_path, 'r', encoding='utf-8') as f:
