@@ -6,7 +6,7 @@ import os
 
 def load_data():
     # Get the directory where the current script is located
-    current_dir = os.path.expanduser('D:/OneDrive/Desktop/Projects/main/pages/scrapers')  # Adjust if needed
+    current_dir = os.path.expanduser('scrapers')  # Adjust if needed
 
     # Construct the full path to the JSON file
     json_path = os.path.join(current_dir, 'auction_results.json')
