@@ -1,0 +1,74 @@
+[
+    {
+        "address": "37 Brookfield, Prestwich, M25 1EL",
+        "town": "Prestwich",
+        "price": "£190,000+",
+        "link": "https://www.auctionhouse.co.uk/manchester/property/106304/37-brookfield-prestwich-m25-1el"
+    },
+    {
+        "address": "Holmedene, Lane Ends, Halifax, HX2 8TW",
+        "town": "Halifax",
+        "price": "£140,000+",
+        "link": "https://www.auctionhouse.co.uk/manchester/property/106743/holmedene-lane-ends-halifax-hx2-8tw"
+    },
+    {
+        "address": "Apartment 72, Willow Rise, Liverpool, L33 8WZ",
+        "town": "Liverpool",
+        "price": "£5,000 - £10,000",
+        "link": "https://www.auctionhouse.co.uk/manchester/property/106745/apartment-72-willow-rise-liverpool-l33-8wz"
+    },
+    {
+        "address": "Apartment 26, 2, Stuart Street, Manchester, M11 4DG",
+        "town": "Manchester",
+        "price": "£90,000+",
+        "link": "https://www.auctionhouse.co.uk/manchester/property/106748/apartment-26-2-stuart-street-manchester-m11-4dg"
+    },
+    {
+        "address": "13 Brownlea Avenue, Dukinfield, SK16 4TZ",
+        "town": "Dukinfield",
+        "price": "£180,000+",
+        "link": "https://www.auctionhouse.co.uk/manchester/property/106749/13-brownlea-avenue-dukinfield-sk16-4tz"
+    },
+    {
+        "address": "31A Mottram Road, Stalybridge, SK15 3AD",
+        "town": "Stalybridge",
+        "price": "£75,000+",
+        "link": "https://www.auctionhouse.co.uk/manchester/property/106750/31a-mottram-road-stalybridge-sk15-3ad"
+    },
+    {
+        "address": "80 Briscoe Lane, Manchester, M40 1JX",
+        "town": "Manchester",
+        "price": "£105,000+",
+        "link": "https://www.auctionhouse.co.uk/manchester/property/106751/80-briscoe-lane-manchester-m40-1jx"
+    },
+    {
+        "address": "22 Bredbury Street, Chadderton, OL9 8QW",
+        "town": "Chadderton",
+        "price": "£75,000+",
+        "link": "https://www.auctionhouse.co.uk/manchester/property/106827/22-bredbury-street-chadderton-ol9-8qw"
+    },
+    {
+        "address": "51 Pelham Street, Ashton-Under-Lyne, OL7 0DT",
+        "town": "Ashton-Under-Lyne",
+        "price": "£105,000+",
+        "link": "https://www.auctionhouse.co.uk/manchester/property/106833/51-pelham-street-ashton-under-lyne-ol7-0dt"
+    },
+    {
+        "address": "4 Slater Street, Blackburn, BB2 4PA",
+        "town": "Blackburn",
+        "price": "£40,000+",
+        "link": "https://www.auctionhouse.co.uk/manchester/property/106854/4-slater-street-blackburn-bb2-4pa"
+    },
+    {
+        "address": "35 Longley Street, Oldham, OL2 8RX",
+        "town": "Oldham",
+        "price": "£95,000+",
+        "link": "https://www.auctionhouse.co.uk/manchester/property/106880/35-longley-street-oldham-ol2-8rx"
+    },
+    {
+        "address": "1 Piggott Street, Brighouse, HD6 2DP",
+        "town": "Brighouse",
+        "price": "£90,000+",
+        "link": "https://www.auctionhouse.co.uk/manchester/property/106923/1-piggott-street-brighouse-hd6-2dp"
+    }
+]
