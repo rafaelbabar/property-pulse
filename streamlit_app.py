@@ -16,7 +16,7 @@ st.write("Remember to check the date, time and location of the auction before se
 st.write("Happy house hunting")
 #st.write("The generate button will save the auctions to our local server no need to test")
 st.write("Check us out at www.aidatalytics.co.uk")
-st.write("Give us feedback or make an order contact@aidatalytics.co.uk")
+st.write("To give us feedback email info@aidatalytics.co.uk")
+st.write("To make an order cotact us at admin@aidatalytics.co.uk")
 #st.write("Just open the app a few times you should notice that until 14 August that the data may change")
 #st.write("Please let us know if the data doesn't change and thanks for helping!")
-
