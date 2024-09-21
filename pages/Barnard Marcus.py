@@ -38,7 +38,7 @@ towns = extract_unique_towns(data)
 
 st.title("Auction - Barnard Marcus")
 st.subheader("Grand Connaught Rooms, Great Queen Street 61-65, Covent Garden, London, WC2B 5DA")
-st.subheader("12th September 2024 commencing at 09:30 AM")
+st.subheader("15th October 2024 commencing at 09:30 AM")
 # Search by town using a dropdown menu
 town_search = st.selectbox("Select a Town", options=["All"] + towns)
 
