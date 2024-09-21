@@ -1,74 +1,345 @@
 [
     {
-        "address": "37 Brookfield, Prestwich, M25 1EL",
-        "town": "Prestwich",
-        "price": "£190,000+",
-        "link": "https://www.auctionhouse.co.uk/manchester/property/106304/37-brookfield-prestwich-m25-1el"
+        "property_type": "2 Bed Terraced House",
+        "address": "33 Ivanhoe Road Conisbrough, Doncaster, South Yorkshire, DN12 3JT",
+        "town": "South Yorkshire",
+        "price": "£60,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260316"
     },
     {
-        "address": "Holmedene, Lane Ends, Halifax, HX2 8TW",
-        "town": "Halifax",
-        "price": "£140,000+",
-        "link": "https://www.auctionhouse.co.uk/manchester/property/106743/holmedene-lane-ends-halifax-hx2-8tw"
+        "property_type": "2 Bed Terraced House",
+        "address": "8 Carisbrooke Avenue Montrose Street, Hull, North Humberside, HU8 7RZ",
+        "town": "North Humberside",
+        "price": "£15,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260761"
     },
     {
-        "address": "Apartment 72, Willow Rise, Liverpool, L33 8WZ",
-        "town": "Liverpool",
-        "price": "£5,000 - £10,000",
-        "link": "https://www.auctionhouse.co.uk/manchester/property/106745/apartment-72-willow-rise-liverpool-l33-8wz"
+        "property_type": "2 Bed Apartment",
+        "address": "11 Regent Court Bradfield Road, Sheffield, South Yorkshire, S6 2BT",
+        "town": "South Yorkshire",
+        "price": "£50,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/261965"
     },
     {
-        "address": "Apartment 26, 2, Stuart Street, Manchester, M11 4DG",
-        "town": "Manchester",
-        "price": "£90,000+",
-        "link": "https://www.auctionhouse.co.uk/manchester/property/106748/apartment-26-2-stuart-street-manchester-m11-4dg"
+        "property_type": "2 Bed Terraced House",
+        "address": "51 Co-Operative Street Goldthorpe, Rotherham, South Yorkshire, S63 9HN",
+        "town": "South Yorkshire",
+        "price": "£54,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260534"
     },
     {
-        "address": "13 Brownlea Avenue, Dukinfield, SK16 4TZ",
-        "town": "Dukinfield",
-        "price": "£180,000+",
-        "link": "https://www.auctionhouse.co.uk/manchester/property/106749/13-brownlea-avenue-dukinfield-sk16-4tz"
+        "property_type": "2 Bed Apartment",
+        "address": "Apartment 9 45 West Sunniside, Sunderland, Tyne and Wear, SR1 1BA",
+        "town": "Tyne and Wear",
+        "price": "£36,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260265"
     },
     {
-        "address": "31A Mottram Road, Stalybridge, SK15 3AD",
-        "town": "Stalybridge",
-        "price": "£75,000+",
-        "link": "https://www.auctionhouse.co.uk/manchester/property/106750/31a-mottram-road-stalybridge-sk15-3ad"
+        "property_type": "Property For Sale",
+        "address": "Flat 9 The Grange, Birkenhead, Merseyside, CH42 4PE",
+        "town": "Merseyside",
+        "price": "Postponed",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260363"
     },
     {
-        "address": "80 Briscoe Lane, Manchester, M40 1JX",
-        "town": "Manchester",
-        "price": "£105,000+",
-        "link": "https://www.auctionhouse.co.uk/manchester/property/106751/80-briscoe-lane-manchester-m40-1jx"
+        "property_type": "1 Bed Apartment",
+        "address": "23A Alexandra Road, Spalding, Lincolnshire, PE11 2QA",
+        "town": "Lincolnshire",
+        "price": "Withdrawn",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/261270"
     },
     {
-        "address": "22 Bredbury Street, Chadderton, OL9 8QW",
-        "town": "Chadderton",
-        "price": "£75,000+",
-        "link": "https://www.auctionhouse.co.uk/manchester/property/106827/22-bredbury-street-chadderton-ol9-8qw"
+        "property_type": "2 Bed Apartment",
+        "address": "Apartment 10 45 West Sunniside, Sunderland, Tyne and Wear, SR1 1BA",
+        "town": "Tyne and Wear",
+        "price": "£34,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260177"
     },
     {
-        "address": "51 Pelham Street, Ashton-Under-Lyne, OL7 0DT",
-        "town": "Ashton-Under-Lyne",
-        "price": "£105,000+",
-        "link": "https://www.auctionhouse.co.uk/manchester/property/106833/51-pelham-street-ashton-under-lyne-ol7-0dt"
+        "property_type": "2 Bed Apartment",
+        "address": "Apartment 1 45 West Sunniside, Sunderland, Tyne and Wear, SR1 1BA",
+        "town": "Tyne and Wear",
+        "price": "£28,500 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260176"
     },
     {
-        "address": "4 Slater Street, Blackburn, BB2 4PA",
-        "town": "Blackburn",
-        "price": "£40,000+",
-        "link": "https://www.auctionhouse.co.uk/manchester/property/106854/4-slater-street-blackburn-bb2-4pa"
+        "property_type": "2 Bed Property For Sale",
+        "address": "3 Briars Road St. Marys Bay, Romney Marsh, Kent, TN29 0HQ",
+        "town": "Kent",
+        "price": "£180,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/261804"
     },
     {
-        "address": "35 Longley Street, Oldham, OL2 8RX",
-        "town": "Oldham",
-        "price": "£95,000+",
-        "link": "https://www.auctionhouse.co.uk/manchester/property/106880/35-longley-street-oldham-ol2-8rx"
+        "property_type": "Land For Sale",
+        "address": "Land at Crookston Road, London, SE9 1YQ",
+        "town": "London",
+        "price": "£12,500 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260422"
     },
     {
-        "address": "1 Piggott Street, Brighouse, HD6 2DP",
-        "town": "Brighouse",
-        "price": "£90,000+",
-        "link": "https://www.auctionhouse.co.uk/manchester/property/106923/1-piggott-street-brighouse-hd6-2dp"
+        "property_type": "Mixed Use",
+        "address": "172-176 Trinity Street, Gainsborough, Lincolnshire, DN21 1JW",
+        "town": "Lincolnshire",
+        "price": "£95,000 - £125,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260322"
+    },
+    {
+        "property_type": "Property For Sale",
+        "address": "50 Saltaire Road, Shipley, West Yorkshire, BD18 3HN",
+        "town": "West Yorkshire",
+        "price": "£150,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/262193"
+    },
+    {
+        "property_type": "Property For Sale",
+        "address": "56 Saltaire Road, Shipley, West Yorkshire, BD18 3HN",
+        "town": "West Yorkshire",
+        "price": "£170,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/262313"
+    },
+    {
+        "property_type": "3 Bed Terraced House",
+        "address": "11 Vernon Close, Leamington Spa, Warwickshire, CV32 6HH",
+        "town": "Warwickshire",
+        "price": "Postponed",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260788"
+    },
+    {
+        "property_type": "3 Bed Semi-Detached House",
+        "address": "6 Pleasley Road Whiston, Rotherham, South Yorkshire, S60 4HA",
+        "town": "South Yorkshire",
+        "price": "£125,000 - £145,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/261336"
+    },
+    {
+        "property_type": "3 Bed Apartment",
+        "address": "8 Gem Street, Liverpool, Merseyside, L5 2AT",
+        "town": "Merseyside",
+        "price": "£65,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/262116"
+    },
+    {
+        "property_type": "1 Bed Terraced House",
+        "address": "8 Windsor Street, Trimdon Station, County Durham, TS29 6DJ",
+        "town": "County Durham",
+        "price": "£10,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260760"
+    },
+    {
+        "property_type": "Terraced House",
+        "address": "Flats 1&2, 67 & 67A Harehills Road, Leeds, West Yorkshire, LS8 5HS",
+        "town": "West Yorkshire",
+        "price": "£105,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/261260"
+    },
+    {
+        "property_type": "Land For Sale",
+        "address": "Woodfarm Road Land, Malvern, Worcestershire, WR14 4PP",
+        "town": "Worcestershire",
+        "price": "£9,500 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260350"
+    },
+    {
+        "property_type": "3 Bed Semi-Detached House",
+        "address": "5 Cobham Place, Stoke-On-Trent, Staffordshire, ST3 7AQ",
+        "town": "Staffordshire",
+        "price": "£100,000 - £120,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260348"
+    },
+    {
+        "property_type": "2 Bed Semi-Detached House",
+        "address": "263 Somercotes Hill Somercotes, Alfreton, Derbyshire, DE55 4HX",
+        "town": "Derbyshire",
+        "price": "£85,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260679"
+    },
+    {
+        "property_type": "2 Bed Apartment",
+        "address": "Flat 1, 8 Chester Street, Easton, Bristol, Avon, BS5 6HZ",
+        "town": "Avon",
+        "price": "£120,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260991"
+    },
+    {
+        "property_type": "Land For Sale",
+        "address": "Chapel Road Land/Commercial, Sale, Cheshire, M33 7FP",
+        "town": "Cheshire",
+        "price": "£13,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260351"
+    },
+    {
+        "property_type": "Land For Sale",
+        "address": "Land at Turkey Brook, Enfield, Middlesex, EN3 6EG",
+        "town": "Middlesex",
+        "price": "£1,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260423"
+    },
+    {
+        "property_type": "3 Bed Terraced House",
+        "address": "77 Boulevard Avenue, Grimsby, South Humberside, DN31 2JJ",
+        "town": "South Humberside",
+        "price": "£50,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260986"
+    },
+    {
+        "property_type": "3 Bed Semi-Detached House",
+        "address": "23 Walton Street, Long Eaton, Nottingham, Nottinghamshire, NG10 1PB",
+        "town": "Nottinghamshire",
+        "price": "£155,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/261263"
+    },
+    {
+        "property_type": "2 Bed Terraced House",
+        "address": "20 Penkhull New Road, Stoke-On-Trent, Staffordshire, ST4 5DB",
+        "town": "Staffordshire",
+        "price": "£100,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260352"
+    },
+    {
+        "property_type": "2 Bed Detached House",
+        "address": "Green House Sampson Street, Scunthorpe, South Humberside, DN17 4PQ",
+        "town": "South Humberside",
+        "price": "£110,000 - £140,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260386"
+    },
+    {
+        "property_type": "2 Bed Semi-Detached House",
+        "address": "73 Newbridge Road Ambergate, Belper, Derbyshire, DE56 2GS",
+        "town": "Derbyshire",
+        "price": "£182,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260790"
+    },
+    {
+        "property_type": "1 Bed Apartment",
+        "address": "The Old Shop George Street, New Quay, Dyfed, SA45 9QR",
+        "town": "Dyfed",
+        "price": "£95,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/261053"
+    },
+    {
+        "property_type": "2 Bed Terraced House",
+        "address": "21A Eighth Street Horden, Peterlee, County Durham, SR8 4LY",
+        "town": "County Durham",
+        "price": "£20,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260170"
+    },
+    {
+        "property_type": "3 Bed Detached House",
+        "address": "2 Beeston Ridge, Stafford, Staffordshire, ST17 9LA",
+        "town": "Staffordshire",
+        "price": "£40,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260344"
+    },
+    {
+        "property_type": "2 Bed Terraced House",
+        "address": "27 St. Johns Terrace, Gainsborough, Lincolnshire, DN21 1BY",
+        "town": "Lincolnshire",
+        "price": "£15,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260328"
+    },
+    {
+        "property_type": "2 Bed Terraced House",
+        "address": "48 Devonshire Street, South Shields, Tyne And Wear, NE33 5SU",
+        "town": "Tyne And Wear",
+        "price": "£10,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260765"
+    },
+    {
+        "property_type": "3 Bed Terraced House",
+        "address": "2 Bruce Court Chapel Road, Wisbech, Cambridgeshire, PE13 1RW",
+        "town": "Cambridgeshire",
+        "price": "£30,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/261145"
+    },
+    {
+        "property_type": "2 Bed Apartment",
+        "address": "152A Durban Road, Grimsby, South Humberside, DN32 8AY",
+        "town": "South Humberside",
+        "price": "£10,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/261044"
+    },
+    {
+        "property_type": "2 Bed Apartment",
+        "address": "12 Columbia Grange, Newcastle upon Tyne, Tyne and Wear, NE3 3JP",
+        "town": "Tyne and Wear",
+        "price": "£5,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260762"
+    },
+    {
+        "property_type": "1 Bed Apartment",
+        "address": "Apartment 108 Pearl Works, Sheffield, South Yorkshire, S1 2FT",
+        "town": "South Yorkshire",
+        "price": "£35,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/261088"
+    },
+    {
+        "property_type": "2 Bed End of Terrace House",
+        "address": "18 Braithwaite Road, Peterlee, County Durham, SR8 5LE",
+        "town": "County Durham",
+        "price": "£10,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260858"
+    },
+    {
+        "property_type": "1 Bed Bungalow",
+        "address": "2 Kimberley Street Coundon Grange, Bishop Auckland, County Durham, DL14 8UA",
+        "town": "County Durham",
+        "price": "£5,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260757"
+    },
+    {
+        "property_type": "1 Bed Bungalow",
+        "address": "3 Kimberley Street Coundon Grange, Bishop Auckland, County Durham, DL14 8UA",
+        "town": "County Durham",
+        "price": "£5,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260758"
+    },
+    {
+        "property_type": "1 Bed Bungalow",
+        "address": "4 Kimberley Street, Coundon Grange, County Durham, DL14 8UA",
+        "town": "County Durham",
+        "price": "£5,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260759"
+    },
+    {
+        "property_type": "2 Bed Terraced House",
+        "address": "6 Randolph Street Coundon Grange, Bishop Auckland, County Durham, DL14 8UL",
+        "town": "County Durham",
+        "price": "£10,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260850"
+    },
+    {
+        "property_type": "2 Bed Terraced House",
+        "address": "70 Hampshire Street, Hull, North Humberside, HU4 6PZ",
+        "town": "North Humberside",
+        "price": "£15,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260764"
+    },
+    {
+        "property_type": "Land For Sale",
+        "address": "Land At Brunswick Road And Fowlers Walk And Land Lying To The North Of Fowlers Walk, London, W5 1BD",
+        "town": "London",
+        "price": "£12,700 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260421"
+    },
+    {
+        "property_type": "1 Bed Apartment",
+        "address": "Apartment 205 3 North Bank, Sheffield, South Yorkshire, S3 8JT",
+        "town": "South Yorkshire",
+        "price": "£50,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260527"
+    },
+    {
+        "property_type": "2 Bed Apartment",
+        "address": "Flat 3 8 St. Bedes Avenue, Blackpool, Lancashire, FY4 1AQ",
+        "town": "Lancashire",
+        "price": "£5,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/260763"
+    },
+    {
+        "property_type": "2 Bed Residential Property For Sale",
+        "address": "24 Cowper Grove, Leeds, West Yorkshire, LS8 5DG",
+        "town": "West Yorkshire",
+        "price": "£65,000 (plus fees)",
+        "link": "https://online.auctionhouse.co.uk/lot/redirect/261351"
     }
 ]
