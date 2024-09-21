@@ -5,7 +5,8 @@ from bs4 import BeautifulSoup
 import html
 #OneDrive\Desktop\Projects\Pages>streamlit run Edward Mellor.py
 st.title("Auction - Edward Mellor")
-st.subheader("Wednesday 2nd October 2024, 12pm to Thursday 3rd October 2024, 12pm")
+st.subheader("Wednesday 2nd October 2024, 12pm to") 
+st.subheader("Thursday 3rd October 2024, 12pm")
 st.subheader("Auction, 65-81, St Petersgate, SK1 1DS")
 url = "https://edwardmellor.co.uk/auctions/02oct2024/"
 
