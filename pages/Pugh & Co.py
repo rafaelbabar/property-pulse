@@ -7,8 +7,10 @@ from bs4 import BeautifulSoup
 import html
 
 st.title("Auction - Pugh and Co")
+subheader("Online Auction Property Auction | October - 15th - 16th October 2024")
+subheader("Bidding opens Tuesday 15th October 10:00 AM")
 
-url = "https://www.pugh-auctions.com/auction/696"
+url = "https://www.pugh-auctions.com/auction/698"
 
 response = requests.get(url)
 content = BeautifulSoup(response.content, "html.parser")
