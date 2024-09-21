@@ -32,6 +32,8 @@ towns = extract_unique_towns(data)
 
 # Streamlit UI components
 st.title('Auction House Data')
+st.subheader("National Online Property Auction")
+st.subheader("Lots closing from 01:00PM on 24 September 2024")
 
 # Filter by town
 selected_town = st.selectbox('Select a town', ['All'] + towns)
