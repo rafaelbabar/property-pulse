@@ -37,6 +37,8 @@ data = load_data()
 towns = extract_unique_towns(data)
 
 st.title("Auction - Landwood")
+st.subheader("Current Lots")
+st.subheader("Call +44(0) 161 967 0122 propertyauction@landwoodgroup.com")
 
 # Search by town using a dropdown menu
 town_search = st.selectbox("Select a Town", options=["All"] + towns)
