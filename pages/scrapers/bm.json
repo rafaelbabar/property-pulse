@@ -1,130 +1,130 @@
 [
     {
-        "Address": "10, Redcar Street",
-        "Location": "HALIFAX, West Yorkshire, HX1 4QZ",
-        "Town": "HALIFAX",
+        "Address": "Flat 1, 26-28, Aberdeen Walk",
+        "Location": "SCARBOROUGH, North Yorkshire, YO11 1XW",
+        "Town": "SCARBOROUGH",
         "Result": "Available",
-        "Minimum Opening Bid": "£20,000",
-        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/12-september-2024/549061/"
+        "Minimum Opening Bid": "£25,000",
+        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/15-october-2024/553187/"
     },
     {
-        "Address": "217, Lord Street",
-        "Location": "GRIMSBY, South Humberside, DN31 2NL",
-        "Town": "GRIMSBY",
+        "Address": "Flat 3, 4, Terrace Road",
+        "Location": "ST. LEONARDS-ON-SEA, East Sussex, TN37 6BN",
+        "Town": "ST. LEONARDS-ON-SEA",
         "Result": "Available",
-        "Minimum Opening Bid": "£28,000",
-        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/12-september-2024/549061/"
+        "Minimum Opening Bid": "£27,500",
+        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/15-october-2024/553187/"
     },
     {
-        "Address": "12a, The Grove",
-        "Location": "SUNDERLAND, Tyne and Wear, SR2 7HF",
-        "Town": "SUNDERLAND",
+        "Address": "66, Aycliffe Crescent",
+        "Location": "GATESHEAD, Tyne and Wear, NE9 7DE",
+        "Town": "GATESHEAD",
         "Result": "Available",
-        "Minimum Opening Bid": "£32,000",
-        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/12-september-2024/548947/"
+        "Minimum Opening Bid": "£46,000",
+        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/15-october-2024/556414/"
     },
     {
-        "Address": "45b, The Westlands",
-        "Location": "SUNDERLAND, Tyne and Wear, SR4 7RR",
-        "Town": "SUNDERLAND",
+        "Address": "10, Briardene",
+        "Location": "DURHAM, County Durham, DH7 9LZ",
+        "Town": "DURHAM",
         "Result": "Available",
         "Minimum Opening Bid": "£55,000",
-        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/12-september-2024/548947/"
+        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/15-october-2024/556414/"
     },
     {
-        "Address": "31, Cardwell Street",
-        "Location": "SUNDERLAND, Tyne and Wear, SR6 0NH",
-        "Town": "SUNDERLAND",
+        "Address": "98, Talbot Road",
+        "Location": "PORT TALBOT, West Glamorgan, SA13 1LB",
+        "Town": "PORT TALBOT",
         "Result": "Available",
         "Minimum Opening Bid": "£60,000",
-        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/12-september-2024/547318/"
+        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/15-october-2024/554621/"
     },
     {
-        "Address": "16, Parrock Close",
-        "Location": "PRESTON, Lancashire, PR1 9NS",
-        "Town": "PRESTON",
+        "Address": "2, Fonteyn Place",
+        "Location": "STANLEY, County Durham, DH9 6XE",
+        "Town": "STANLEY",
+        "Result": "Available",
+        "Minimum Opening Bid": "£65,000",
+        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/15-october-2024/554621/"
+    },
+    {
+        "Address": "448, Wakefield Road",
+        "Location": "HUDDERSFIELD, West Yorkshire, HD5 8PS",
+        "Town": "HUDDERSFIELD",
+        "Result": "Available",
+        "Minimum Opening Bid": "£68,500",
+        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/15-october-2024/554632/"
+    },
+    {
+        "Address": "18, Townsend",
+        "Location": "ELY, Cambridgeshire, CB7 5DB",
+        "Town": "ELY",
         "Result": "Available",
         "Minimum Opening Bid": "£82,000",
-        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/12-september-2024/547318/"
+        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/15-october-2024/554632/"
     },
     {
-        "Address": "Land north of, 72-74, Queens Gardens",
-        "Location": "RAINHAM, Essex, RM13 8EB",
-        "Town": "RAINHAM",
+        "Address": "13, Dovedale Avenue",
+        "Location": "WILLENHALL, West Midlands, WV12 4NA",
+        "Town": "WILLENHALL",
+        "Result": "Available",
+        "Minimum Opening Bid": "£85,000",
+        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/15-october-2024/556119/"
+    },
+    {
+        "Address": "Ground Floor Unit, 149, Kingston Road",
+        "Location": "Wimbledon, London, SW19 1LJ",
+        "Town": "Wimbledon",
+        "Result": "Available",
+        "Minimum Opening Bid": "£85,000",
+        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/15-october-2024/556119/"
+    },
+    {
+        "Address": "299, Mill Lane",
+        "Location": "ST. HELENS, Merseyside, WA9 4EU",
+        "Town": "ST. HELENS",
         "Result": "Available",
         "Minimum Opening Bid": "£90,000",
-        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/12-september-2024/548935/"
+        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/15-october-2024/554571/"
     },
     {
-        "Address": "47b, Salop Street",
-        "Location": "DUDLEY, West Midlands, DY1 3AY",
-        "Town": "DUDLEY",
+        "Address": "35, Cardigan Road",
+        "Location": "OLDHAM, Lancashire, OL8 4SF",
+        "Town": "OLDHAM",
+        "Result": "Available",
+        "Minimum Opening Bid": "£95,500",
+        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/15-october-2024/554571/"
+    },
+    {
+        "Address": "15, Southfield Gardens",
+        "Location": "LOWESTOFT, Suffolk, NR33 9AY",
+        "Town": "LOWESTOFT",
         "Result": "Available",
         "Minimum Opening Bid": "£100,000",
-        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/12-september-2024/548935/"
+        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/15-october-2024/556332/"
     },
     {
-        "Address": "105, Sutton Road",
-        "Location": "KING'S LYNN, Norfolk, PE34 4HE",
-        "Town": "KING'S LYNN",
+        "Address": "6 Delapre Court, London Road",
+        "Location": "NORTHAMPTON, Northamptonshire, NN4 8AT",
+        "Town": "NORTHAMPTON",
         "Result": "Available",
         "Minimum Opening Bid": "£110,000",
-        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/12-september-2024/548946/"
+        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/15-october-2024/556332/"
     },
     {
-        "Address": "32, Beckbury Road",
-        "Location": "BIRMINGHAM, West Midlands, B29 5HR",
-        "Town": "BIRMINGHAM",
+        "Address": "37, Brookfield",
+        "Location": "MANCHESTER, Lancashire, M25 1EL",
+        "Town": "MANCHESTER",
         "Result": "Available",
-        "Minimum Opening Bid": "£115,000",
-        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/12-september-2024/548946/"
+        "Minimum Opening Bid": "£185,000",
+        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/15-october-2024/556411/"
     },
     {
-        "Address": "Flat 10, Sherborne Court, Elmers End Road",
-        "Location": "LONDON, London, SE20 7SL",
-        "Town": "LONDON",
+        "Address": "36, Hillside",
+        "Location": "GATESHEAD, Tyne and Wear, NE11 9QR",
+        "Town": "GATESHEAD",
         "Result": "Available",
-        "Minimum Opening Bid": "£160,000",
-        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/12-september-2024/545639/"
-    },
-    {
-        "Address": "58, Conifer Way",
-        "Location": "WEMBLEY, Middlesex, HA0 3QR",
-        "Town": "WEMBLEY",
-        "Result": "Available",
-        "Minimum Opening Bid": "£175,000",
-        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/12-september-2024/545639/"
-    },
-    {
-        "Address": "712D, Kenton Road",
-        "Location": "Kingsbury, HARROW, Middlesex, HA3 9QX",
-        "Town": "Kingsbury",
-        "Result": "Available",
-        "Minimum Opening Bid": "£180,000",
-        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/12-september-2024/549075/"
-    },
-    {
-        "Address": "31, Druitt Road",
-        "Location": "CHRISTCHURCH, Dorset, BH23 3DW",
-        "Town": "CHRISTCHURCH",
-        "Result": "Available",
-        "Minimum Opening Bid": "£182,000",
-        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/12-september-2024/549075/"
-    },
-    {
-        "Address": "37, Applecross Close",
-        "Location": "ROCHESTER, Kent, ME1 1SQ",
-        "Town": "ROCHESTER",
-        "Result": "Available",
-        "Minimum Opening Bid": "£230,000",
-        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/12-september-2024/547325/"
-    },
-    {
-        "Address": "Wick Hill Cottage, Warfield Road",
-        "Location": "BRACKNELL, Berkshire, RG12 2JA",
-        "Town": "BRACKNELL",
-        "Result": "Available",
-        "Minimum Opening Bid": "£825,000",
-        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/12-september-2024/547325/"
+        "Minimum Opening Bid": "£200,000",
+        "Link": "https://www.barnardmarcusauctions.co.uk/auctions/15-october-2024/556411/"
     }
 ]
