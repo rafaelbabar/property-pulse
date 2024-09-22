@@ -1,65 +1,324 @@
 [
     {
+        "Address": "252B London Road, Croydon, Surrey, CR0 2TH",
+        "Town": "Surrey",
+        "Result": "Available",
+        "Minimum Opening Bid": "ON BEHALF OF THE MORTGAGEE: Vacant 2 bedroom flat in need of complete renovation",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127437"
+    },
+    {
+        "Address": "Land at Cowhill Lane / Wimpole Street, Ashton-under-Lyne, Tameside, OL6 6HJ",
+        "Town": "Tameside",
+        "Result": "Available",
+        "Minimum Opening Bid": "£65,000",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127781"
+    },
+    {
+        "Address": "36 Grays Walk, South Shields, Tyne And Wear, NE34 9LT",
+        "Town": "Tyne And Wear",
+        "Result": "Available",
+        "Minimum Opening Bid": "£60,000",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/128284"
+    },
+    {
+        "Address": "11 Neville Road, Croydon, Croydon, CR0 2DS",
+        "Town": "Croydon",
+        "Result": "Available",
+        "Minimum Opening Bid": "ON BEHALF OF TAMESIDE MBC: Land approximately 140 sq.m in a town centre location currently used as informal parking",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127535"
+    },
+    {
+        "Address": "Boundary House, Boundary Lane, Threapwood, Malpas, Cheshire, SY14 7PE",
+        "Town": "Cheshire",
+        "Result": "Available",
+        "Minimum Opening Bid": "£6,000",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/128470"
+    },
+    {
+        "Address": "7 Kynaston Road, Thornton Heath, Surrey, CR7 7AZ",
+        "Town": "Surrey",
+        "Result": "Available",
+        "Minimum Opening Bid": "£3,000",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/128423"
+    },
+    {
+        "Address": "3 Paddock Lane, Sunderland, Tyne and Wear, SR3 2BX",
+        "Town": "Tyne and Wear",
+        "Result": "Available",
+        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Three bedroom end terrace house Let at £525pcm.",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/128758"
+    },
+    {
+        "Address": "388 Richmond Road, Sheffield, South Yorkshire, S13 8LZ",
+        "Town": "South Yorkshire",
+        "Result": "Available",
+        "Minimum Opening Bid": "£65,000",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127821"
+    },
+    {
         "Address": "1 Salisbury Street, Sunderland, Tyne and Wear, SR1 2QR",
         "Town": "Tyne and Wear",
         "Result": "Available",
+        "Minimum Opening Bid": "£60,000",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/128927"
+    },
+    {
+        "Address": "Apartment 11 Lemon Tree Court, Clifton Drive North, Lytham St. Annes, Lancashire, FY8 2SU",
+        "Town": "Lancashire",
+        "Result": "Available",
+        "Minimum Opening Bid": "ON BEHALF OF THE FIXED CHARGE RECEIVERS: Warehouse/Storage/Showroom/Compound premises approximately 513.08 sq.m (5,523 sq. ft) on a site of approximately 0.17 acre with development potential",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/129631"
+    },
+    {
+        "Address": "3 Burlington Close, Sunderland, Tyne and Wear, SR2 8AW",
+        "Town": "Tyne and Wear",
+        "Result": "Available",
+        "Minimum Opening Bid": "£350,000",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127207"
+    },
+    {
+        "Address": "1 St. Georges Court, Chorley, Lancashire, PR7 2TT",
+        "Town": "Lancashire",
+        "Result": "Available",
+        "Minimum Opening Bid": "£335,000",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127203"
+    },
+    {
+        "Address": "Flat 12 Maritime Buildings, Saint Thomas Street, Sunderland, Sunderland, SR1 1BL",
+        "Town": "Sunderland",
+        "Result": "Available",
+        "Minimum Opening Bid": "ON BEHALF OF THE TRUSTEES IN BANKRUPTCY: Fire damaged Four Bedroom House set in 3.8 acres",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127231"
+    },
+    {
+        "Address": "83 Morgan Street, Sunderland, Tyne and Wear, SR5 2HN",
+        "Town": "Tyne and Wear",
+        "Result": "Available",
+        "Minimum Opening Bid": "£225,000",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127256"
+    },
+    {
+        "Address": "6 Chapel Walk, Coppull, Chorley, Lancashire, PR7 5AY",
+        "Town": "Lancashire",
+        "Result": "Available",
+        "Minimum Opening Bid": "£220,000",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127337"
+    },
+    {
+        "Address": "Apartment 46 St. Michaels, Gray Road, Sunderland, Tyne and Wear, SR2 8JU",
+        "Town": "Tyne and Wear",
+        "Result": "Available",
+        "Minimum Opening Bid": "ON BEHALF OF THE JOINT LIQUIDATORS: Vacant three bedroom house in need of refurbishment",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127264"
+    },
+    {
+        "Address": "47 Neville Road, Sunderland, Tyne and Wear, SR4 6PU",
+        "Town": "Tyne and Wear",
+        "Result": "Available",
+        "Minimum Opening Bid": "Postponed",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127254"
+    },
+    {
+        "Address": "3 St. Georges Court, Chorley, Lancashire, PR7 2TT",
+        "Town": "Lancashire",
+        "Result": "Available",
+        "Minimum Opening Bid": "£320,000",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127206"
+    },
+    {
+        "Address": "87 Morgan Street, Sunderland, Tyne and Wear, SR5 2HN",
+        "Town": "Tyne and Wear",
+        "Result": "Available",
+        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Three bedroom dormer style detached house Let at £500pcm.",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127257"
+    },
+    {
+        "Address": "20 Chapel Walk, Coppull, Chorley, Lancashire, PR7 5AY",
+        "Town": "Lancashire",
+        "Result": "Available",
+        "Minimum Opening Bid": "£130,000",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127334"
+    },
+    {
+        "Address": "28A Whitehall Terrace, Sunderland, Tyne and Wear, SR4 7SR",
+        "Town": "Tyne and Wear",
+        "Result": "Available",
+        "Minimum Opening Bid": "£125,000",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127241"
+    },
+    {
+        "Address": "91 Morgan Street, Sunderland, Tyne and Wear, SR5 2HN",
+        "Town": "Tyne and Wear",
+        "Result": "Available",
+        "Minimum Opening Bid": "ON BEHALF OF THE COURT APPOINTED RECEIVER: Vacant former takeaway premises with residential accommodation above",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127260"
+    },
+    {
+        "Address": "22 Chapel Walk, Coppull, Chorley, Lancashire, PR7 5AY",
+        "Town": "Lancashire",
+        "Result": "Available",
+        "Minimum Opening Bid": "£62,500",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127335"
+    },
+    {
+        "Address": "6 St. Georges Court, Chorley, Lancashire, PR7 2TT",
+        "Town": "Lancashire",
+        "Result": "Available",
+        "Minimum Opening Bid": "£62,500",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127209"
+    },
+    {
+        "Address": "33 Hampstead Road, Sunderland, Tyne and Wear, SR4 8BA",
+        "Town": "Tyne and Wear",
+        "Result": "Available",
         "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Three bedroom end terraced house arranged over three floors Let at £475pcm.",
-        "Link": "https://www.landwoodpropertyauctions.com//lot/details/125189"
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127250"
+    },
+    {
+        "Address": "Flat 4, 110 Queen Alexandra Road, Sunderland, Tyne and Wear, SR2 9AJ",
+        "Town": "Tyne and Wear",
+        "Result": "Available",
+        "Minimum Opening Bid": "£52,500",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127275"
+    },
+    {
+        "Address": "26 Chapel Walk, Coppull, Chorley, Lancashire, PR7 5AY",
+        "Town": "Lancashire",
+        "Result": "Available",
+        "Minimum Opening Bid": "£47,500",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127336"
+    },
+    {
+        "Address": "14 St. Georges Court, Chorley, Lancashire, PR7 2TT",
+        "Town": "Lancashire",
+        "Result": "Available",
+        "Minimum Opening Bid": "One bedroom apartment for the over 55's",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127232"
+    },
+    {
+        "Address": "16 Pickard Street, Sunderland, Tyne and Wear, SR4 6HE",
+        "Town": "Tyne and Wear",
+        "Result": "Available",
+        "Minimum Opening Bid": "Postponed",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127236"
+    },
+    {
+        "Address": "28B Whitehall Terrace, Sunderland, Tyne and Wear, SR4 7SR",
+        "Town": "Tyne and Wear",
+        "Result": "Available",
+        "Minimum Opening Bid": "£36,000",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127242"
+    },
+    {
+        "Address": "93 Morgan Street, Sunderland, Tyne and Wear, SR5 2HN",
+        "Town": "Tyne and Wear",
+        "Result": "Available",
+        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Vacant two bedroom mid terraced house.",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127262"
+    },
+    {
+        "Address": "27 Chapel Walk, Coppull, Chorley, Lancashire, PR7 5AY",
+        "Town": "Lancashire",
+        "Result": "Available",
+        "Minimum Opening Bid": "£32,500",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127338"
+    },
+    {
+        "Address": "Flat 3 Radford House, Brownshill Green Road, Coventry, West Midlands, CV6 2AN",
+        "Town": "West Midlands",
+        "Result": "Available",
+        "Minimum Opening Bid": "£27,500",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127191"
+    },
+    {
+        "Address": "131-133 West Street, Crewe, Cheshire, CW1 3HH",
+        "Town": "Cheshire",
+        "Result": "Available",
+        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: One bedroom ground floor flat Let at £420pcm.",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/127715"
+    },
+    {
+        "Address": "65 Balkwell Avenue, North Shields, Tyne And Wear, NE29 7JF",
+        "Town": "Tyne And Wear",
+        "Result": "Available",
+        "Minimum Opening Bid": "£32,500",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/122109"
+    },
+    {
+        "Address": "29 Burns Terrace, Shotton Colliery, Durham, County Durham, DH6 2PD",
+        "Town": "County Durham",
+        "Result": "Available",
+        "Minimum Opening Bid": "£27,500",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/128535"
     },
     {
         "Address": "19A North Parade, Whitley Bay, Tyne And Wear, NE26 1NU",
         "Town": "Tyne And Wear",
         "Result": "Available",
-        "Minimum Opening Bid": "£57,500",
-        "Link": "https://www.landwoodpropertyauctions.com//lot/details/125620"
+        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Vacant one bedroom third floor flat.",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/128696"
     },
     {
-        "Address": "Flats 1 and 2, 4 Burnville Road South, Sunderland, Tyne and Wear, SR4 7LT",
-        "Town": "Tyne and Wear",
+        "Address": "27 Norwich Road, Thornton Heath, Surrey, CR7 8NA",
+        "Town": "Surrey",
         "Result": "Available",
-        "Minimum Opening Bid": "£50,000",
-        "Link": "https://www.landwoodpropertyauctions.com//lot/details/125971"
+        "Minimum Opening Bid": "£22,500",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/128425"
     },
     {
-        "Address": "32 Beech Avenue, Droylsden, Manchester, Lancashire, M43 6FR",
-        "Town": "Lancashire",
+        "Address": "28 Chipperfield Road, Norwich, Norfolk, NR7 9RR",
+        "Town": "Norfolk",
         "Result": "Available",
-        "Minimum Opening Bid": "Vacant two bedroom ground floor flat",
-        "Link": "https://www.landwoodpropertyauctions.com//lot/details/126445"
-    },
-    {
-        "Address": "Flat 43 Chorcliffe House, Hollinshead Street, Chorley, Lancashire, PR7 1EP",
-        "Town": "Lancashire",
-        "Result": "Available",
-        "Minimum Opening Bid": "£85,000",
-        "Link": "https://www.landwoodpropertyauctions.com//lot/details/126410"
-    },
-    {
-        "Address": "24 Wynyard Mews, Hartlepool, Cleveland, TS25 3JE",
-        "Town": "Cleveland",
-        "Result": "Available",
-        "Minimum Opening Bid": "£80,000",
-        "Link": "https://www.landwoodpropertyauctions.com//lot/details/126638"
-    },
-    {
-        "Address": "1 Aydon House, Farringdon, Sunderland, Tyne and Wear, SR3 3HN",
-        "Town": "Tyne and Wear",
-        "Result": "Available",
-        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Semi detached house arranged as two flats Let at a combined rent of £900pcm.",
-        "Link": "https://www.landwoodpropertyauctions.com//lot/details/126795"
-    },
-    {
-        "Address": "48 Greenbank Drive, Sunderland, Tyne and Wear, SR4 0JY",
-        "Town": "Tyne and Wear",
-        "Result": "Available",
-        "Minimum Opening Bid": "£65,000",
-        "Link": "https://www.landwoodpropertyauctions.com//lot/details/126864"
+        "Minimum Opening Bid": "£20,000",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/129738"
     },
     {
         "Address": "5 Mansion House Scotts House, Newcastle Road, West Boldon, East Boldon, Tyne And Wear, NE36 0BE",
         "Town": "Tyne And Wear",
         "Result": "Available",
-        "Minimum Opening Bid": "£60,000",
-        "Link": "https://www.landwoodpropertyauctions.com//lot/details/126922"
+        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Vacant two bedroom first floor flat.",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/129898"
+    },
+    {
+        "Address": "2 Chart House, Fleet Avenue, Hartlepool, Cleveland, TS24 0WB",
+        "Town": "Cleveland",
+        "Result": "Available",
+        "Minimum Opening Bid": "£15,000",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/128837"
+    },
+    {
+        "Address": "72 Heath Road, Upton, Chester, Cheshire, CH2 1HX",
+        "Town": "Cheshire",
+        "Result": "Available",
+        "Minimum Opening Bid": "£12,000",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/129339"
+    },
+    {
+        "Address": "30 Hollings Terrace, Chopwell, Newcastle upon Tyne, Tyne and Wear, NE17 7LD",
+        "Town": "Tyne and Wear",
+        "Result": "Available",
+        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: One bedroom flat Let at a rent of £395pcm.",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/129682"
+    },
+    {
+        "Address": "Apartment 11 Lemon Tree Court, Clifton Drive North, Lytham St. Annes, Lancashire, FY8 2SU",
+        "Town": "Lancashire",
+        "Result": "Available",
+        "Minimum Opening Bid": "£30,000",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/130344"
+    },
+    {
+        "Address": "7 Kynaston Road, Thornton Heath, Surrey, CR7 7AZ",
+        "Town": "Surrey",
+        "Result": "Available",
+        "Minimum Opening Bid": "£27,000",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/130191"
+    },
+    {
+        "Address": "27 Norwich Road, Thornton Heath, Surrey, CR7 8NA",
+        "Town": "Surrey",
+        "Result": "Available",
+        "Minimum Opening Bid": "ON BEHALF OF LPA RECEIVERS: Two bedroom first floor flat which is Let at £600pcm.",
+        "Link": "https://www.landwoodpropertyauctions.com//lot/details/130192"
     }
 ]
